@@ -34,5 +34,5 @@ En esta carpeta se encuentran los diagramas vistos en clase que no están integr
 4. Diagrama de paquetes
 
 ## 4. Documentos en la carpeta raiz
-En la carpeta principal además de las carpetas mencionadas se encuentra un archivo denominado gestion_tiendas_virtuales.studio el cual corresponde al archivo de la implementación de la solución mínima viable, la cual se realizo en el software InVision Studio.
+En la carpeta principal además de las carpetas mencionadas se encuentra un archivo denominado gestion_tiendas_virtuales.studio el cual corresponde al archivo de la implementación de la solución mínima viable, la cual se realizó en el software InVision Studio.
 
