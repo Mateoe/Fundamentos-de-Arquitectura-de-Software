@@ -14,8 +14,8 @@ En esta carpeta se encuentran los siguientes diagramas y documentos
 8. Diagramas BPMN
 9. Diagrama de datos del proceso (Diagrama de clases)
 10. Captura de las interfaces
-11. Docuento del proyecto en formato docx
-12. Docuento del proyecto en formato PDF
+11. Documento del proyecto en formato docx
+12. Documento del proyecto en formato PDF
 
 ## 2. Trabajo Arquitectura de la Información
 En esta carpeta se encuentran los siguientes diagramas y documentos:
