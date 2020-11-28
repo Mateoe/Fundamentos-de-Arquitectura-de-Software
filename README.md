@@ -1,5 +1,5 @@
 # Fundamentos de Arquitectura de Software
-En este repositorio se encuentran alojados los trabajos de la asignatura Fundamentos de Analitica de software, la estructura de las carpetas es la siguente:
+En este repositorio se encuentran alojados los trabajos de la asignatura Fundamentos de Arquitectura de software, la estructura de las carpetas es la siguente:
 
 ## 1. Proyecto Solución Mínima Viable:
 En esta carpeta se encuentran los siguientes diagramas y documentos
